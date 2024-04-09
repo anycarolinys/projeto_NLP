@@ -1,5 +1,5 @@
 ### **Projeto NLP**
-O problema a ser tratado é uma análise de sentimentos a partir de reviews de filmes.
+O problema a ser tratado é uma análise de sentimentos a partir de reviews dos 250 melhores filmes no Letterboxd, sendo cada filme avaliado com 20 reviews.
 
 #### **Extração dos dados**
 Os dados foram obtidos a partir de um dataset do Kaggle.  
